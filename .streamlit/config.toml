@@ -1,0 +1,11 @@
+[theme]
+baseRadius = "large"
+
+[theme.light]
+primaryColor = "#2E9E6A"
+
+[theme.dark]
+primaryColor = "#3DBE82"
+
+[client]
+toolbarMode = "minimal"
